@@ -44,4 +44,3 @@ def readProfitFile():
         os.system('sh move.sh')
         file.close()
 
-r

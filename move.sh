@@ -1,3 +1,4 @@
 #!bash
-cd /home/qinyong/python
-sudo mv img/* /home/qinyong/nginx/html/python/
+path=$(pwd)
+cd $path
+sudo cp img/* /home/qinyong/nginx/html/python/

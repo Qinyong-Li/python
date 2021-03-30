@@ -107,5 +107,3 @@ def riseOrLost():
             print(s)
         file.close()
 
-
-riseOrLost()
